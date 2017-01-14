@@ -21,7 +21,7 @@ return {
 		{
 			x = -60,
 			y = 70,
-			shape = {0,0, 60,0, 60,28, 0,28},
+			shape = {0,0, 60,0, 60,20, 0,20},
 			sprite = "assets/platforms/sorona-center.png"
 		},
 		{
@@ -44,8 +44,8 @@ return {
 		},
 		{
 			x = -150,
-			y = 20,
-			shape = {1,8, 33,8, 33,33, 4,29},
+			y = 15,
+			shape = {1,8, 105,8, 85,16, 38,28, 1,30},
 			sprite = "assets/platforms/sorona-left-top.png"
 		}
 	},
