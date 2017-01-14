@@ -2,7 +2,7 @@
 return {
 	-- GENERAL
 	name = "default",
-	theme = "sorona.mp3",
+	theme = "default.ogg",
 	center_x = 0,
 	center_y = 0,
 	width  = 360,
