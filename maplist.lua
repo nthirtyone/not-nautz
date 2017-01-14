@@ -3,5 +3,6 @@ return {
 	"rill",
 	"ribbit",
 	"starstorm",
-	"aiguillon"
+	"aiguillon",
+	"sorona"
 }
