@@ -19,7 +19,7 @@ return {
 	background = "assets/backgrounds/sorona.png",
 	platforms = {
 		{
-			x = -91,
+			x = -30,
 			y = 0,
 			shape = {0,1, 181,1, 181,10, 96,76, 86,76, 0,10},
 			sprite = "assets/platforms/sorona-center.png"
@@ -28,25 +28,25 @@ return {
 			x = 114,
 			y = 50,
 			shape = {0,1, 52,1, 52,30, 0,30},
-			sprite = "assets/platforms/sorona-left-bottom.png"
+			sprite = "assets/platforms/sorona-right-bottom.png"
 		},
 		{
 			x = -166,
 			y = 50,
 			shape = {0,1, 52,1, 52,30, 0,30},
-			sprite = "assets/platforms/sorona-right-bottom.png"
+			sprite = "assets/platforms/sorona-left-bottom.png"
 		},
 		{
 			x = 114,
 			y = -50,
 			shape = {0,1, 34,1, 34,16, 0,16},
-			sprite = "assets/platforms/sorona-left-top.png"
+			sprite = "assets/platforms/sorona-right-top.png"
 		},
 		{
 			x = -166,
 			y = -50,
 			shape = {0,1, 34,1, 34,16, 0,16},
-			sprite = "assets/platforms/sorona-right-top.png"
+			sprite = "assets/platforms/sorona-left-top.png"
 		}
 	},
 	decorations = {}
