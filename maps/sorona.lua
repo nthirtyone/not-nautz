@@ -21,7 +21,7 @@ return {
 		{
 			x = -30,
 			y = 0,
-			shape = {0,1, 181,1, 181,10, 96,76, 86,76, 0,10},
+			shape = {0,0, 60,0, 60,18, 0,18},
 			sprite = "assets/platforms/sorona-center.png"
 		},
 		{
