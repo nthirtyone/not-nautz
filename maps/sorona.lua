@@ -21,31 +21,31 @@ return {
 		{
 			x = -30,
 			y = 0,
-			shape = {0,0, 60,0, 60,18, 0,18},
+			shape = {0,0, 60,0, 60,28, 0,28},
 			sprite = "assets/platforms/sorona-center.png"
 		},
 		{
 			x = 114,
 			y = 50,
-			shape = {0,1, 52,1, 52,30, 0,30},
+			shape = {3,0, 38,0, 38,1, 145,1, 145,0, 180,0, 180,20, 143,20, 134,7, 48,7, 40,20 3,20},
 			sprite = "assets/platforms/sorona-right-bottom.png"
 		},
 		{
 			x = -166,
 			y = 50,
-			shape = {0,1, 52,1, 52,30, 0,30},
+			shape = {3,0, 63,0, 63,24, 3,24},
 			sprite = "assets/platforms/sorona-left-bottom.png"
 		},
 		{
 			x = 114,
 			y = -50,
-			shape = {0,1, 34,1, 34,16, 0,16},
+			shape = {1,0, 141,0, 1,25, 141,25},
 			sprite = "assets/platforms/sorona-right-top.png"
 		},
 		{
 			x = -166,
 			y = -50,
-			shape = {0,1, 34,1, 34,16, 0,16},
+			shape = {1,8, 33,8, 33,33, 4,29, 2,15},
 			sprite = "assets/platforms/sorona-left-top.png"
 		}
 	},
