@@ -9,10 +9,12 @@ return {
 	height = 240,
 	-- RESPAWN POINTS
 	respawns = {
-		{x = -15, y = -80},
-		{x =  -5, y = -80},
-		{x =   5, y = -80},
-		{x =  15, y = -80}
+		{x = -30, y = 70},
+		{x =  -90, y = 125},
+		{x =   -31, y = 122},
+		{x =  70, y = 20},
+		{x =  1, y = -15},
+		{x =  105, y = -15}
 	},
 	-- GRAPHICS
 	clouds = false,
