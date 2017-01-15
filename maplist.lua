@@ -4,5 +4,6 @@ return {
 	"ribbit",
 	"starstorm",
 	"aiguillon",
-	"sorona"
+	"sorona",
+	"alpha abyss"
 }
