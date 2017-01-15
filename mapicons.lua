@@ -1,7 +1,7 @@
 -- Maps icons list generation file
 -- REWORK NEEDED, it is so similar to `nautsicons.lua` they could be merged together into one function that returns icon quad sequences.
 local maps = require "maplist"
-local w, h = 456, 37
+local w, h = 532, 37
 local icons = {}
 
 local i = 0
