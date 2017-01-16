@@ -23,7 +23,7 @@ return {
 		{
 			x = -60,
 			y = 0,
-			shape = {0,0, 119,0, 91,49, 29,49},
+			shape = {0,0, 117,0, 101,50, 16,50},
 			sprite = "assets/platforms/alpha-big-1.png"
 		},
 		{
