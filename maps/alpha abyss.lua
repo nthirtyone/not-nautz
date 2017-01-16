@@ -23,25 +23,25 @@ return {
 		{
 			x = -60,
 			y = 0,
-			shape = {0,0, 120,0, 91,51, 30,50},
+			shape = {0,0, 119,0, 91,49, 29,49},
 			sprite = "assets/platforms/alpha-big-1.png"
 		},
 		{
 			x = -150,
 			y = -50,
-			shape = {0,0, 60,0, 59,21, 0,20},
+			shape = {0,0, 59,0, 59,19, 0,19},
 			sprite = "assets/platforms/alpha-small-1.png"
 		},
 		{
 			x = 90,
 			y = -50,
-			shape = {0,0, 60,0, 59,21, 0,20},
+			shape = {0,0, 59,0, 59,19, 0,19},
 			sprite = "assets/platforms/alpha-small-1.png"
 		},
 		{
 			x = -30,
 			y = -75,
-			shape = {0,0, 60,0, 59,21, 0,20},
+			shape = {0,0, 59,0, 59,19, 0,19},
 			sprite = "assets/platforms/alpha-small-1.png"
 		}
 	},
