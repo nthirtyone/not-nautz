@@ -4,7 +4,7 @@ return {
 	name = "alpha abyss",
 	theme = "alpha.ogg",
 	center_x = 0,
-	center_y = 0,
+	center_y = -80,
 	width  = 360,
 	height = 240,
 	-- RESPAWN POINTS
