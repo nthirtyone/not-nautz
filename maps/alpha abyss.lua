@@ -27,20 +27,20 @@ return {
 			sprite = "assets/platforms/alpha-big-1.png"
 		},
 		{
-			x = -150,
+			x = -145,
 			y = -50,
 			shape = {0,0, 59,0, 59,19, 0,19},
 			sprite = "assets/platforms/alpha-small-1.png"
 		},
 		{
-			x = 90,
+			x = 85,
 			y = -50,
 			shape = {0,0, 59,0, 59,19, 0,19},
 			sprite = "assets/platforms/alpha-small-1.png"
 		},
 		{
 			x = -30,
-			y = -75,
+			y = -80,
 			shape = {0,0, 59,0, 59,19, 0,19},
 			sprite = "assets/platforms/alpha-small-1.png"
 		}
