@@ -2,6 +2,7 @@
 -- icons list is generated from this file
 return {
 	"empty", -- empty
+	"random", --random
 	"froggo", -- froggy
 	"cowboy", -- lonestar
 	"honic", -- leon
@@ -31,5 +32,4 @@ return {
 	"biker", -- chucho
 	"vrooom", -- lux
 	"shutter", -- max
-	"random", --random
 }
