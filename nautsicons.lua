@@ -1,6 +1,6 @@
 -- Spritesheet for character portraits
 local nauts = require "nautslist"
-local w, h = 980, 27
+local w, h = 1008, 27
 local icons = {}
 
 local i = 0
