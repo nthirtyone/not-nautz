@@ -31,4 +31,5 @@ return {
 	"biker", -- chucho
 	"vrooom", -- lux
 	"shutter", -- max
+	"dicey", --random
 }
