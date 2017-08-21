@@ -23,6 +23,7 @@ return {
 	"quack", -- rocco
 	"scissors", -- ksenia
 	"link", -- ix
+	"cowman", -- deadlift
 	"marine", -- ted
 	"scooter", -- penny
 	"phonebooth", -- sentry
@@ -32,14 +33,14 @@ return {
 	"biker", -- chucho
 	"vrooom", -- lux
 	"shutter", -- max
+	"froggirl", -- dizzy
+	"dundee", -- smiles
+	"missile", -- commander rocket
+	"swarm", -- qi'tara
 	"disco", -- esc rocco
+	"joystick", -- 8-bit yoolip
 	"yarr", -- ted pirate
 	"blblal", -- blabl zork
 	"kong", -- ronimo
 	"rock", -- rock
-	"deadlift", -- deadlift
-	"dizzy", -- dizzy
-	"dundee", -- smiles
-	"missile", -- cmdr rocket
-	"swarm", -- qi'tara
 }
