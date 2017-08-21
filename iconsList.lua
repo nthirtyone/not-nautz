@@ -10,7 +10,7 @@ local function testAvoidList (i, avoidList)
 end
 
 function createIconsList (sheetWidth, sheetHeight, iconWidth, keysList, avoidList)
-	local avoidList = avoidList or {}
+	local avoidList = avoidList or {37,38,39,40,41,42}
 	local iconsList, newKeysList = {}, {}
 	local iconsNumber = math.floor(sheetWidth / iconWidth)
 	local iconHeight = sheetHeight
@@ -24,9 +24,8 @@ function createIconsList (sheetWidth, sheetHeight, iconWidth, keysList, avoidLis
 end
 
 function getNautsIconsList (avoidList)
-	local avoidList = avoidList or {32,33,34,35,36}
 	local keysList = require "config.nauts"
-	local iconsList, newKeysList = createIconsList(1008, 27, 28, keysList, avoidList)
+	local iconsList, newKeysList = createIconsList(1176, 27, 28, keysList, avoidList)
 	return iconsList, newKeysList
 end
 
