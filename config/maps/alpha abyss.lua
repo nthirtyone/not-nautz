@@ -40,7 +40,7 @@ return {
 	},
 	-- GRAPHICS
 	clouds = false,
-	background = "assets/backgrounds/alpha-1.png",
+	background = "assets/backgrounds/alpha.png",
 	platforms = {
 		{
 			x = -60,
